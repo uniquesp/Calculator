@@ -8,7 +8,7 @@ A simple calculator application built using Java AWT and Swing. The application 
 
 Here's a screenshot of the calculator application:
 
-![Calculator Screenshot]([screenshot.png](https://github.com/uniquesp/Calculator/blob/main/Calculator.png))
+![Calculator Screenshot](https://github.com/uniquesp/Calculator/blob/main/Calculator.png)
 
 ## Features
 
