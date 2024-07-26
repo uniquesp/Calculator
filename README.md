@@ -4,6 +4,12 @@
 
 A simple calculator application built using Java AWT and Swing. The application provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Example
+
+Here's a screenshot of the calculator application:
+
+![Calculator Screenshot]([screenshot.png](https://github.com/uniquesp/Calculator/blob/main/Calculator.png))
+
 ## Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
@@ -52,12 +58,6 @@ A simple calculator application built using Java AWT and Swing. The application 
    - Use the arithmetic operation buttons (+, -, *, /) to select the desired operation.
    - Press the "=" button to calculate the result.
    - Press the "C" button to clear the current input.
-
-## Example
-
-Here's a screenshot of the calculator application:
-
-![Calculator Screenshot](screenshot.png)
 
 ## Contributing
 
